@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"tag": "mo_recipes:quartz_blocks"
+	},
+	"result": "minecraft:quartz",
+	"count": 4
+}
